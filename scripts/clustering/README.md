@@ -18,5 +18,9 @@
 
 ![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/a11e070d-afa0-46b2-98aa-2a0a2df2ccbc)
 
+## L7, L8, L9, S2 (Collection-2) clustering (2021-22)
 
+![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/b764a039-7c28-460a-a5e8-d9752017b42f)
+
+![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/2ba4f6ec-03cc-4f45-bbf3-7b2ff2d7ed7e)
 

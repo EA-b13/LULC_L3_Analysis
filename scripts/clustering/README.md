@@ -12,6 +12,18 @@
 
 ![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/7619ff8a-1f5d-4d5f-940e-c0c0839bfd9b)
 
+## L7,L8 clustering (2016-17)
+
+![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/4c5aa242-34d9-4ef4-98f6-57a7f022699d)
+
+![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/6c51c963-6346-411f-a5b3-23d11dbbad50)
+
+## L7,L8,S2 clustering (2016-17)
+
+![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/1f2a3631-846a-475e-a5b5-554563deb9b0)
+
+![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/93de26be-3d28-43ea-8c7d-92557d0cee4f)
+
 ## L7,L8,S2 (Collection-2) clustering (2018-19)
 
 ![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/111bc8a2-baba-42d7-a8c5-38a8e05d79c3)

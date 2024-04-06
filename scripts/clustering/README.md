@@ -24,3 +24,9 @@
 
 ![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/2ba4f6ec-03cc-4f45-bbf3-7b2ff2d7ed7e)
 
+## Harmonized Landsat Sentinel - Landsat (HLSL30, NASA) clustering (2018-19)
+
+![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/82d28f36-0316-4776-bd4a-a68052a5b510)
+
+![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/dd4ec966-b4a9-4601-b1e7-2dfd5b664299)
+

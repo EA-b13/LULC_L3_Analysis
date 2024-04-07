@@ -1,1 +1,3 @@
-# LULC_L3_Analysis
+# Land Use Land Cover (LULC) L3 Analysis
+
+This repository contains the scripts and slides for LULC_L3 analysis project. The project involves generating Land Use Land Cover predictions over a geographical area using unsupervised clustering on NDVI (Normalized Difference Vegetation Index) band using Sattelite imagery. The product predicts classification of Built-up, Water bodies, Barren land, Cropland, Tree/Forests, Shrub_Scrub and Cropping Intensity. This repository primarily contains code pertaining to cropping intensity (Single Kharif, Single Non Kharif, Double, Triple cropping) classification - clustering and time series generation.

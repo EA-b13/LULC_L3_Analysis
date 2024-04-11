@@ -18,7 +18,7 @@ Generate_NonPadded_L7_L8_TS_TrainingData (L7, L8 clustering, 2018-19).ipynb - To
 
 ## L7,L8 clustering (2016-17)
 
-Generate_NonPadded_L7_L8_TS_TrainingData (L7, L8 clustering, 2016-17).ipynb - To generate time series from Landsat 7, Landsat 8 satellites for HY2016 which is used to run clustering on top of it.
+Generate_NonPadded_L7_L8_TS_TrainingData (L7, L8 clustering, 2018-19).ipynb [CHANGE start_date, end_date TO HY2016 IN THE SCRIPT] - To generate time series from Landsat 7, Landsat 8 satellites for HY2016 which is used to run clustering on top of it.
 
 ![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/4c5aa242-34d9-4ef4-98f6-57a7f022699d)
 
@@ -26,7 +26,7 @@ Generate_NonPadded_L7_L8_TS_TrainingData (L7, L8 clustering, 2016-17).ipynb - To
 
 ## L7,L8,S2 clustering (2016-17)
 
-Generate_NonPadded_L7_L8_S2_TS_TrainingData (L7, L8, S2 clustering, 2016-17).ipynb - To generate time series from Landsat 7, Landsat 8 and Sentinel-2 satellites for HY2016 which is used to run clustering on top of it.
+Generate_NonPadded_L7_L8_S2_TS_TrainingData (L7, L8, S2 clustering, 2018-19).ipynb [CHANGE start_date, end_date TO HY2016 IN THE SCRIPT] - To generate time series from Landsat 7, Landsat 8 and Sentinel-2 satellites for HY2016 which is used to run clustering on top of it.
 
 ![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/1f2a3631-846a-475e-a5b5-554563deb9b0)
 
@@ -42,7 +42,7 @@ Generate_NonPadded_L7_L8_S2_TS_TrainingData (L7, L8, S2 clustering, 2018-19).ipy
 
 ## L7, L8, L9, S2 (Collection-2) clustering (2021-22)
 
-Generate_NonPadded_L7_L8_L9_S2_TS_TrainingData (L7, L8, L9, S2 clustering, 2021-22).ipynb - To generate time series from Landsat 7, Landsat 8, Landsat 9 and Sentinel-2 satellites for HY2016 which is used to run clustering on top of it.
+Generate_NonPadded_LSMC_L9_TS_TrainingData (L7,L8,L9,S2 clustering (C2), 2021-22).ipynb - To generate time series from Landsat 7, Landsat 8, Landsat 9 (Collection-2) and Sentinel-2 satellites for HY2021 which is used to run clustering on top of it.
 
 ![image](https://github.com/EA-b13/LULC_L3_Analysis/assets/142974585/b764a039-7c28-460a-a5e8-d9752017b42f)
 
